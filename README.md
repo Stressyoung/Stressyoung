@@ -42,10 +42,6 @@ const nadir = {
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Stressyoung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stressyoung&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Contribution graph" />
-</p>
-
 <div align="center">
 
 **⭐ Code. Ship. Repeat.**
