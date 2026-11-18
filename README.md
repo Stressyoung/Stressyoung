@@ -40,7 +40,6 @@ const nadir = {
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Stressyoung&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Stressyoung&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
